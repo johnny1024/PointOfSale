@@ -1,8 +1,8 @@
 # PointOfSale
 
-Run:
+##Run:
 mvn install
 mvn exec:java
 
-Tests:
+##Tests:
 mvn test
